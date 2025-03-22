@@ -1,6 +1,6 @@
-Merhaba, ben Oğuz Kaan Apaydın
-🚀 Oğuz Kaan Apaydın
-Front-End Developer | 🌍 Web Teknolojilerine Tutkulu
+💻 Oğuz Kaan Apaydın - Front-End Developer  
+🌍 Oğuz Kaan Apaydın | Web Teknolojileri Meraklısı  
+🔥 Oğuz Kaan Apaydın | Tutkulu Front-End Developer  
 
 💡 Hakkımda
 Modern ve kullanıcı dostu arayüzler geliştiriyorum.
