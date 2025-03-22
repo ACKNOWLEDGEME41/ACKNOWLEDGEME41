@@ -23,4 +23,4 @@ Git, GitHub,VS Code, Figma
 🔗 [LinkedIn: Oğuz Kaan Apaydın](https://www.linkedin.com/in/o%C4%9Fuz-kaan-apayd%C4%B1n-b05baa348)  
 💻 [Portfolio: Buraya Tıklayın](https://acknowledgeme41.github.io/ACKNOWLEDGME_41/)  
 
-💬 İş birlikleri ve projeler için benimle iletişime geçmekten çekinmeyin! 🚀✨
+⚡ Eğlenceli gerçek: Ben de React Sevdalısıyım (Sevgili)
