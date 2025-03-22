@@ -8,9 +8,12 @@ React, Next.js ve Tailwind CSS ile dinamik ve performanslı web uygulamaları ol
 Her gün yeni teknolojiler öğrenerek kendimi geliştiriyorum!
 
 🚀 Kullandığım Teknolojiler
+
 💻 Diller & Frameworkler
 HTML, CSS, JavaScript, TypeScript
+
 React.js, Next.js, Tailwind CSS
+
 🔧 Araçlar & Platformlar
 Git, GitHub,VS Code, Figma
 
